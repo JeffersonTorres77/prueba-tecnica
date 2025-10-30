@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Vendor
+backend/vendor/
+
+# Env
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Build
+frontend/dist/
