@@ -8,10 +8,6 @@ Estructura:
 - frontend/ -> Vue 3 + Vite app
 
 Git Flow:
-- feature/*
-- release/*
-- hotfix/*
-- develop
-- master/main
+- main
 
 Ver README dentro de cada carpeta para instrucciones de arranque.
